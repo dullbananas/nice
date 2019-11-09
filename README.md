@@ -1,2 +1,2 @@
 # nice
-Nice.
+This repo is good.
